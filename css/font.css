@@ -1,0 +1,30 @@
+@font-face {
+    font-family: font-1;
+    src: url(../font/font-1/IRANYekanWeb.eot);
+    src: url(../font/font-1/IRANYekanWeb.ttf);
+    src: url(../font/font-1/IRANYekanWeb.woff);
+    src: url(../font/font-1/IRANYekanWeb.woff2);
+   
+}
+@font-face {
+    font-family: font-2;
+    src: url(../font/font-2/IRANYekanWeb-Bold.eot);
+    src: url(../font/font-2/IRANYekanWeb-Bold.ttf);
+    src: url(../font/font-2/IRANYekanWeb-Bold.woff);
+    src: url(../font/font-2/IRANYekanWeb-Bold.woff2);
+   
+}
+@font-face {
+    font-family: font-3;
+    src: url(../font/font-3/BNazanin.eot);
+    src: url(../font/font-3/BNazanin.ttf);
+    src: url(../font/font-3/BNazanin.woff);
+    src: url(../font/font-3/BNazanin.woff2);
+}
+@font-face {
+    font-family: font-4;
+    src: url(../font/font-4/BTitrBold.eot);
+    src: url(../font/font-4/BTitrBold.ttf);
+    src: url(../font/font-4/BTitrBold.woff);
+    src: url(../font/font-4/BTitrBold.woff2);
+}
